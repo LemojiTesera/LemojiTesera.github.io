@@ -1,12 +1,14 @@
-title = "Notre-Dame de Paris"
+title = "LemojiTesera"
 baseURL = "https://LemojiTesera.github.io"
 # theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 theme = "ananke"
 resourceDir = "resources"
 
 defaultContentLanguage = "en"
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 enableRobotsTXT = true
+
+publishDir = "docs"
 
 
 [services.googleAnalytics]
@@ -19,14 +21,14 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
 contentDir = "content/en"
 languageCode = 'en-US'
 weight = 1
-title = "Ananke"
+title = "Lemoji Tesera"
 # languageDirection = 'rtl' for Right-To-Left languages
 
-[languages.fr]
-contentDir = "content/fr"
-languageCode = 'fr-FR'
+[languages.zh]
+contentDir = "content/zh"
+languageCode = 'zh-CN'
 weight = 2
-title = "Ananke Fr"
+title = "朗姆酒"
 
 [sitemap]
 changefreq = "monthly"
@@ -34,9 +36,9 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-mainSections = ["post"]
+mainSections = ["publications"]
 text_color = ""
-author = "Victor Hugo" # default author, override via `author` in a posts front matter
+author = "Lemoji Tesera" # default author, override via `author` in a posts front matter
 favicon = ""
 site_logo = ""
 description = "The last theme you'll ever need. Maybe."
@@ -48,34 +50,34 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
 
-[params.ananke.social.share]
-networks = [
-  "email",
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
+# [params.ananke.social.share]
+# networks = [
+#   "email",
+#   "facebook",
+#   "bluesky",
+#   "linkedin"
+# ]
 
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "bluesky",
-  "linkedin",
-  "wikipedia"
-]
+# [params.ananke.social.follow]
+# networks = [
+#   "facebook",
+#   "bluesky",
+#   "linkedin",
+#   "wikipedia"
+# ]
 
-[params.ananke.social.facebook]
-username = "patrick.kollitsch"
-# profilelink = "https://www.facebook.com/patrick.kollitsch"
-
-[params.ananke.social.linkedin]
-username = "patrickkollitsch"
-
-[params.ananke.social.bluesky]
-username = "kollitsch.dev"
-
-[params.ananke.social.wikipedia]
-username = "Hugo_(software)"
+# [params.ananke.social.facebook]
+# username = "patrick.kollitsch"
+# # profilelink = "https://www.facebook.com/patrick.kollitsch"
+# 
+# [params.ananke.social.linkedin]
+# username = "patrickkollitsch"
+# 
+# [params.ananke.social.bluesky]
+# username = "kollitsch.dev"
+# 
+# [params.ananke.social.wikipedia]
+# username = "Hugo_(software)"
 
 [params.ananke.social.networks.wikipedia]
 slug = "wikipedia"
