@@ -2,7 +2,7 @@ title = "Notre-Dame de Paris"
 baseURL = "https://LemojiTesera.github.io"
 # theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "resources"
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
