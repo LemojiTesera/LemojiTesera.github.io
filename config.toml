@@ -36,7 +36,7 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-mainSections = ["publications"]
+mainSections = ["about"]
 text_color = ""
 author = "Lemoji Tesera" # default author, override via `author` in a posts front matter
 favicon = ""
