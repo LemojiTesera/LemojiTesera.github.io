@@ -1,7 +1,7 @@
 ---
 title: "Publications"
-description: "Position: content/en/publications/index.md:description"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "Patience"
+featured_image: '/images/bg.png'
 menu:
   main:
     weight: 2

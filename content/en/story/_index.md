@@ -1,7 +1,7 @@
 ---
 title: "Story"
-description: "Position: content/en/story/index.md:description"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "Grow up"
+featured_image: '/images/bg.png'
 menu:
   main:
     weight: 3

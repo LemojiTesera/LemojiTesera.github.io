@@ -2,132 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://LemojiTesera.github.io/story/test/</loc>
+    <loc>http://localhost:1313/story/test/</loc>
     <lastmod>2025-04-09T10:59:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://LemojiTesera.github.io/</loc>
-    <lastmod>2025-04-09T10:59:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://LemojiTesera.github.io/"
-                />
-  </url><url>
-    <loc>https://LemojiTesera.github.io/tags/scene/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-09T10:59:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/tags/scene/"
+                href="http://localhost:1313/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://LemojiTesera.github.io/tags/scene/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://LemojiTesera.github.io/story/</loc>
+    <loc>http://localhost:1313/tags/scene/</loc>
+    <lastmod>2025-04-09T10:59:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/story/</loc>
+    <lastmod>2025-04-09T10:59:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-09T10:59:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/story/"
+                href="http://localhost:1313/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://LemojiTesera.github.io/story/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://LemojiTesera.github.io/tags/</loc>
-    <lastmod>2025-04-09T10:59:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://LemojiTesera.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://LemojiTesera.github.io/publications/chapter-2/</loc>
+    <loc>http://localhost:1313/publications/chapter-2/</loc>
     <lastmod>2017-04-09T10:59:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://LemojiTesera.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2017-04-09T10:59:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://LemojiTesera.github.io/publications/"
-                />
   </url><url>
-    <loc>https://LemojiTesera.github.io/publications/chapter-1/</loc>
+    <loc>http://localhost:1313/publications/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/publications/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://LemojiTesera.github.io/publications/chapter-1/"
-                />
   </url><url>
-    <loc>https://LemojiTesera.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/about/"
+                href="http://localhost:1313/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://LemojiTesera.github.io/about/"
-                />
-  </url><url>
-    <loc>https://LemojiTesera.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://LemojiTesera.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://LemojiTesera.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url>
 </urlset>

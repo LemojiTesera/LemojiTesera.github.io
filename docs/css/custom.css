@@ -1,0 +1,7 @@
+.content-wrapper {
+  max-width: 60%; /* 您可以调整这个值以改变内容宽度，从而改变页边距 */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px; /* 内容与浏览器边缘的最小间距 */
+  padding-right: 20px; /* 内容与浏览器边缘的最小间距 */
+} 

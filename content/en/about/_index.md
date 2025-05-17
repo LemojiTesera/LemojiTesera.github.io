@@ -1,13 +1,31 @@
 ---
 title: "About"
-description: "About: content/en/about/index.md:description"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+# description: "About: content/en/about/index.md:description"
+featured_image: '/images/bg.png'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+## Study Experience
 
-This is a description text located in content/en/about/index.md, which is in markdown format, used to provide a brief overview of the content or purpose of the page.
+- 2025.3-Present Yonsei University, South Korea  Large Language Model, GPU Architecture PhD
+- 2022.9-2024.6 University of Southampton, UK  Electronic Engineering Master 
+- 2020.9-2022.6 Beihang University,China  Artificial Intelligence Master
+- 2015.9-2019.6 Qufu Normal University, China  Communication Engineering Bachelor
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+## Internship Experience
+
+- 2021.7-2022.9 Beijing Academy of Artificial Intelligence(BAAI), China  Algorithm Research
+- 2021.3-2021.7 Baidu, China  Computer Vision Algorithm
+
+## Email
+
+<lemoji@yonsei.ac.kr>
+
+## Some words to 10043er if you are being restricted or are about to apply abroad
+
+The USA sanctions on 10043 have evolved to troublesome study visa check with more than half of a year - Canada's security check, the UK's ATAS review, Australia's research-based master's and doctoral review, European countries restrictions like Netherlands, France, Switzerland and Belgium. The figure shows the rejection letter I received from a French university on the second day of President Macron's friendly visit to China in 2023.
+
+Although the world situation is changing rapidly, although politics seems to be far away from us, and although we feel its earthquake firsthand, please stick to being yourself. The international relationship between contries will not be changed just by our thoughts. The dust of the times is like a mountain when it falls on a person. I have experienced helplessness and despair like you. After recalling, I think it was a experience for grow up to participate in a global event. Just to be what you want to be is okay because capability and life lessons are your own things. Lastly, Wish you a bright future.
+
+![](/images/10043.jpg)
