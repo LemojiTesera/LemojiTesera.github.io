@@ -9,8 +9,8 @@ menu:
 ## Study Experience
 
 - 2025.3-Present Yonsei University, South Korea  Large Language Model, GPU Architecture PhD
-- 2022.9-2024.6 University of Southampton, UK  Electronic Engineering Master 
-- 2020.9-2022.6 Beihang University,China  Artificial Intelligence Master
+- 2022.9-2024.7 University of Southampton, UK  Electronic Engineering Master 
+- 2020.9-2024.6 Beihang University,China  Artificial Intelligence Master
 - 2015.9-2019.6 Qufu Normal University, China  Communication Engineering Bachelor
 
 ## Internship Experience
