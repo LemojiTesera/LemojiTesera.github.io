@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Story on Li Mengjie</title>
+    <title>Ecosystem Chain Partication on Li Mengjie</title>
     <link>https://LemojiTesera.github.io/story/</link>
-    <description>Recent content in Story on Li Mengjie</description>
+    <description>Recent content in Ecosystem Chain Partication on Li Mengjie</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Apr 2025 10:59:08 -0400</lastBuildDate>
     <atom:link href="https://LemojiTesera.github.io/story/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title> </title>
-      <link>https://LemojiTesera.github.io/story/test/</link>
-      <pubDate>Wed, 09 Apr 2025 10:59:08 -0400</pubDate>
-      <guid>https://LemojiTesera.github.io/story/test/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

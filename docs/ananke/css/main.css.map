@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/langmujiu/个人主页/LemojiTesera.github.io",
+	"sourceRoot": "/home/casl/KVC/blog/LemojiTesera.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
